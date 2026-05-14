@@ -1,4 +1,4 @@
-# 
+# Bitwarden for macOS updated Script: vulnerability-scanner & ad-blocker offers the most advanced Bitwarden for macOS script, with vulnerability-scanner and ad-blocker. Ideal for
 
 
 
